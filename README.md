@@ -9,7 +9,9 @@ Helm chart
 Rails app (hello word)
 
 Assumption
-No data persistence
+- No data persistence
+- Docker, Helm, Kubectl, KinD configured on local machine
+
 
 Step 1 : Install Docker
 - Download and install Docker for mac from the official Docker website: https://www.docker.com/products/docker-desktop
